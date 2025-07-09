@@ -22,7 +22,7 @@
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/FaceLog.git
+git clone https://github.com/Kushagra888/FaceLog.git
 cd FaceLog
 ```
 
